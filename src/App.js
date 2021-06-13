@@ -3,7 +3,7 @@ import About from "./routes/About";
 import Home from "./routes/Home";
 import Detail from "./routes/Detail";
 import "./App.css"
-import { HashRouter, Route } from "react-router-dom";
+import { HashRouter, Route } from "react-router-dom"
 import Navigation from "./Components/Navigation";
 
 function App() {
